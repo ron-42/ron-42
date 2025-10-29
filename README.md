@@ -20,19 +20,5 @@
 
 ---
 
-## 🐍 Contribution Snake (auto-updated)
-![Snake animation](https://raw.githubusercontent.com/ron-42/ron-42/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-
----
-
 
 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
