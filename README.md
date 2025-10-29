@@ -1,6 +1,6 @@
 # Hi, I'm Ron 👋
 
-**Full-Stack Developer | Python & JavaScript | Open-Source Lover**
+**AI/ML Engineer | Open-Source Lover**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ron-42&color=brightgreen)
 
